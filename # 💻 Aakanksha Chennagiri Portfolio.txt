@@ -1,0 +1,22 @@
+# 💻 Aakanksha Chennagiri Portfolio
+
+Welcome to my personal data analyst portfolio.  
+I'm passionate about solving real-world problems with data, machine learning, and cloud-based solutions.
+
+🔗 [Live Site](https://aakanksha.github.io)
+
+## 📌 Featured Projects
+
+- 📊 Stock Price Prediction – ARIMA, XGBoost models for market insights
+- 🔍 Smart Grid Anomaly Detection – PySpark + Docker for real-time detection
+- 🏥 Hospital Readmission Risk – ML-powered risk analysis with Power BI
+- 💊 Drug Distribution Optimization – SQL + predictive modeling for pharma supply chains
+
+ 🔧 Tools & Skills
+
+Python | SQL | Power BI | Tableau | AWS | NLP | Scikit-learn | PySpark | Databricks | Docker
+
+
+
+📬 Contact me: [chennagiriaakanksha3@gmail.com](mailto:chennagiriaakanksha3@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/aakanksha-c-b0257126a)
